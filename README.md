@@ -1,4 +1,3 @@
-ola eu sou o diogo
-estou 1° 
-tenho 16 anos
-
+<h> loja de computador
+<p>(color;red;) trabalhamos com manutenção e vendemos peças 
+  
